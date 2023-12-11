@@ -1,0 +1,15 @@
+{
+  "name": "stylelint-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrmoel/stylelint-bug.git",
+  "author": "foo",
+  "license": "MIT",
+  "scripts": {
+    "lint": "stylelint 'src/**/*.scss'"
+  },
+  "devDependencies": {
+    "stylelint": "^16.0.1",
+    "stylelint-config-standard-scss": "^11.1.0"
+  }
+}
